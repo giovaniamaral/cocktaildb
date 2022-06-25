@@ -1,0 +1,28 @@
+form {
+
+   border-radius: 10px;
+   color: #b2b5ba;
+   padding: 16px;
+   display:flex;
+   align-items: center;
+   justify-content: center;
+
+
+}
+input {
+  background: #232129;
+  color: #efeded;
+  border: 2px solid #232129;
+  border-radius: 10px;
+  padding: 16px;
+  width: 600px;
+  height: 50px;
+}
+
+p {
+  font-size: 24px;
+  color: #d7cece;
+  border: none;
+  font-family: 'Roboto', sans-serif;
+}
+
